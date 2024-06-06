@@ -1,1 +1,1 @@
-# Introductory-seminar-on-Computer-Vision
+# Introductory seminar on-Computer Vision
