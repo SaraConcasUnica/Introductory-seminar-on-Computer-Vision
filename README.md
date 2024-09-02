@@ -3,8 +3,8 @@
 In this repository will be added progressively the material concerning the introductory seminar on Computer Vision carried out within the Cagliari Digital Lab 2024 project. To register for the seminar you must complete the [registration form](https://forms.gle/ZmxaRYqeDmrDFqKw9).
 
 ## Scheduling
-- Day 1: Monday, 2nd September 2024
-Location: Aula IAM_TA (ex aula B0), Building M
+- Day 1: Monday, 2nd September 2024 \\
+Location: Aula IAM_TA (ex aula B0), Building M \\
 Time: 10:00 AM - 1:00 PM
 
 - Day 2: Tuesday, 3rd September 2024
