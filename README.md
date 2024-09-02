@@ -20,7 +20,7 @@ Location: Aula IAN_3B (ex Laboratorio LIDIA Software), Building N <br>
 Time: 10:00 AM - 1:00 PM <br>
 
 - Day 5: Friday, 6th September 2024 <br>
-Location: Aula IAN_3B (ex Laboratorio LIDIA Software), Building N <br>
+Location: To be defined <br>
 Time: 3:00 AM - 6:00 PM <br>
 
 
