@@ -1,7 +1,6 @@
 ## Friday's class has been moved from the morning to the afternoon
 Room: IAM_TA (ex B0)
 3:00 p.m. - 6:00 p.m.
-![image](https://github.com/user-attachments/assets/3e742891-079b-4bb1-88e4-bb4e091c4452)
 
 
 
