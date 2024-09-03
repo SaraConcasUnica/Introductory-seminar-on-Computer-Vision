@@ -1,3 +1,10 @@
+## Friday's class has been moved from the morning to the afternoon
+Room: IAM_TA (ex B0)
+3:00 p.m. - 6:00 p.m.
+![image](https://github.com/user-attachments/assets/3e742891-079b-4bb1-88e4-bb4e091c4452)
+
+
+
 # Introductory seminar on-Computer Vision
 
 In this repository will be added progressively the material concerning the introductory seminar on Computer Vision carried out within the Cagliari Digital Lab 2024 project. To register for the seminar you must complete the [registration form](https://forms.gle/ZmxaRYqeDmrDFqKw9).
@@ -20,7 +27,7 @@ Location: Aula IAN_3B (ex Laboratorio LIDIA Software), Building N <br>
 Time: 10:00 AM - 1:00 PM <br>
 
 - Day 5: Friday, 6th September 2024 <br>
-Location: To be defined <br>
+Location: Aula IAM_TA (ex aula B0), Building M <br>
 Time: 3:00 AM - 6:00 PM <br>
 
 
