@@ -10,23 +10,23 @@ In this repository will be added progressively the material concerning the intro
 
 ## Scheduling
 - Day 1: Monday, 2nd September 2024 <br>
-Location: Aula IAM_TA (ex aula B0), Building M <br>
+Location: Room IAM_TA (ex aula B0), Building M <br>
 Time: 10:00 AM - 1:00 PM<br>
 
 - Day 2: Tuesday, 3rd September 2024 <br>
-Location: Aula IAM_TA (ex aula B0), Building M <br>
+Location: Room IAM_TA (ex aula B0), Building M <br>
 Time: 10:00 AM - 1:00 PM <br>
 
 - Day 3: Wednesday, 4th September 2024 <br>
-Location: Aula IAN_3B (ex Laboratorio LIDIA Software), Building N <br>
+Location: Room IAN_3B (ex Laboratorio LIDIA Software), Building N <br>
 Time: 10:00 AM - 1:00 PM <br>
 
 - Day 4: Thursday, 5th September 2024 <br>
-Location: Aula IAN_3B (ex Laboratorio LIDIA Software), Building N <br>
+Location: Room IAN_3B (ex Laboratorio LIDIA Software), Building N <br>
 Time: 10:00 AM - 1:00 PM <br>
 
 - Day 5: Friday, 6th September 2024 <br>
-Location: Aula IAM_TA (ex aula B0), Building M <br>
+Location: Room IAM_TA (ex aula B0), Building M <br>
 Time: 3:00 AM - 6:00 PM <br>
 
 
