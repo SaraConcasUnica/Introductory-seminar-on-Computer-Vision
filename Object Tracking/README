@@ -13,3 +13,6 @@ In order to execute the code:
     - spyder (OPTIONAL: to run Spyder)
 
 Open the scripts in the IDE and execute!
+
+You can find the two pre-trained models of the MobileNet-SSD framework, here:
+https://github.com/PINTO0309/MobileNet-SSD-RealSense/tree/master
